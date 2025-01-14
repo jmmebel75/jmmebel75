@@ -2,7 +2,7 @@
 <h3 align="center">Aprendiendo Data Scientist y Machine Learning</h3>
 
 - 🌱 I’m currently learning **Python, SQL, Data Scientist, Machine Learning**
-
+- 🌱  I’m currently studying to become an **IT Systems and Network Administrator (ASIR)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
